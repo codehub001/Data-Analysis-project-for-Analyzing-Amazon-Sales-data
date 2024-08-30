@@ -1,0 +1,2 @@
+# Data-Analysis-project-for-Analyzing-Amazon-Sales-data
+Discover a portfolio of comprehensive data analytics projects featuring SQL, Python, and Power BI. Uncover critical insights and data-driven solutions to real-world challenges through advanced data extraction, in-depth analysis, and dynamic visualization. Perfect for both novices and seasoned professionals aiming to elevate their data analytics.
